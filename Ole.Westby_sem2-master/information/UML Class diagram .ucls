@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="inf101.grid.GridTest" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/test/java/inf101/grid/GridTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="326" x="1949" y="668"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="inf101.sem2.GUI.GamePanel" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/GUI/GamePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="178" x="450" y="367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="inf101.sem2.player.DumbPlayer" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/player/DumbPlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="147" x="3217" y="1504"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="inf101.sem2.player.GuiPlayer" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/player/GuiPlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="170" x="3404" y="1504"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="inf101.sem2.MainTerminal" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/MainTerminal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="668" y="367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="inf101.sem2.game.Game" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/game/Game.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="423" width="246" x="4542" y="668"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="inf101.sem2.GUI.ClickableGrid.ClickableGridListener" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/GUI/ClickableGrid.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="188" x="4314" y="1504"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="inf101.sem2.GUI.RoundedBorder" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/GUI/RoundedBorder.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="270" x="821" y="367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="9" language="java" name="inf101.sem2.player.Player" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/player/Player.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="147" x="3030" y="1504"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="10" language="java" name="inf101.sem2.terminal.TerminalInput" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/terminal/TerminalInput.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="220" x="1131" y="367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="inf101.sem2.game.GameBoard" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/game/GameBoard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="265" x="4542" y="1504"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="inf101.sem2.GUI.ClickableGrid" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/GUI/ClickableGrid.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="290" x="4231" y="1131"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="inf101.util.generators.StringGenerator" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/test/java/inf101/util/generators/StringGenerator.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="164" x="2969" y="668"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="inf101.sem2.player.ConsolePlayer" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/player/ConsolePlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="258" x="3614" y="1504"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="15" language="java" name="inf101.util.IGenerator" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/test/java/inf101/util/IGenerator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="200" x="2538" y="1131"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="16" language="java" name="inf101.util.generators.ListGenerator" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/test/java/inf101/util/generators/ListGenerator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="183" x="2315" y="668"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="inf101.sem2.game.TestGame" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/test/java/inf101/sem2/game/TestGame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="171" x="1391" y="367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="inf101.sem2.game.ConnectFour" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/game/ConnectFour.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="220" x="4582" y="1131"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="inf101.util.generators.GridGenerator" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/test/java/inf101/util/generators/GridGenerator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="370" x="2538" y="668"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="inf101.sem2.player.RandomPlayer" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/player/RandomPlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="155" x="3912" y="1504"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="inf101.util.generators.IntGenerator" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/test/java/inf101/util/generators/IntGenerator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="164" x="3173" y="668"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="22" language="java" name="inf101.sem2.game.Graphics" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/game/Graphics.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="163" x="4028" y="1131"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="23" language="java" name="inf101.sem2.GUI.MainMenu" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/GUI/MainMenu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="194" x="4308" y="367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="inf101.sem2.player.RestartException" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/player/RestartException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="131" x="1602" y="367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="inf101.sem2.terminal.TerminalMenu" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/terminal/TerminalMenu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="209" x="1773" y="367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="inf101.util.generators.AbstractGenerator" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/test/java/inf101/util/generators/AbstractGenerator.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="200" x="3173" y="367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="inf101.util.generators.GridDirectionGenerator" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/test/java/inf101/util/generators/GridDirectionGenerator.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="236" x="3752" y="1131"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="inf101.util.generators.LocationGenerator" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/test/java/inf101/util/generators/LocationGenerator.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="164" x="3377" y="668"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="inf101.sem2.player.PlayerList" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/player/PlayerList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="168" x="3030" y="1131"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="inf101.sem2.game.PlayerListTest" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/test/java/inf101/sem2/game/PlayerListTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="163" x="2022" y="367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="inf101.sem2.game.PlayerTest" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/test/java/inf101/sem2/game/PlayerTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="224" x="2225" y="367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="inf101.grid.LocationTest" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/test/java/inf101/grid/LocationTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="150" x="2489" y="367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="inf101.sem2.MainGUI" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/MainGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="2679" y="367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="inf101.sem2.player.GameEndedException" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/player/GameEndedException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="148" x="2832" y="367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="inf101.GetStarted" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/GetStarted.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="3020" y="367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="inf101.sem2.GUI.GameGUI" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/GUI/GameGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="194" x="4231" y="668"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="inf101.sem2.terminal.TerminalGraphics" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/terminal/TerminalGraphics.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="163" x="4028" y="668"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="inf101.sem2.game.GameBoardTest" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/test/java/inf101/sem2/game/GameBoardTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="162" x="3238" y="1131"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="inf101.sem2.player.Strategy" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/player/MiniMaxPlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="147" x="4542" y="367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="inf101.sem2.game.Othello" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/game/Othello.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="194" x="4842" y="1131"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="inf101.util.generators.DoubleGenerator" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/test/java/inf101/util/generators/DoubleGenerator.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="183" x="3581" y="668"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="inf101.sem2.game.TicTacToe" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/game/TicTacToe.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="206" x="5076" y="1131"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="inf101.util.generators.ElementGenerator" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/test/java/inf101/util/generators/ElementGenerator.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="184" x="3804" y="668"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="inf101.sem2.player.AbstractPlayer" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/player/AbstractPlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="161" x="3547" y="1131"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="inf101.sem2.player.MiniMaxPlayer" project="Ole.Westby_sem2" 
+    file="/Ole.Westby_sem2/src/main/java/inf101/sem2/player/MiniMaxPlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="167" x="4107" y="1504"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="46">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="47" name="lengthGenerator"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="49">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="22"/>  
+  </realization>  
+  <generalization id="50">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <generalization id="51">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <association id="52">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="53" name="p1"/>      
+      <multiplicity id="54" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="55">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <association id="56">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="57" name="widthGenerator"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="59">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="60" name="heightGenerator"/>      
+      <multiplicity id="61" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="62">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <generalization id="63">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="44"/>  
+  </generalization>  
+  <nesting id="64">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="7"/>  
+  </nesting>  
+  <generalization id="65">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <generalization id="66">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <association id="67">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="68" name="board"/>      
+      <multiplicity id="69" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="70">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="71" name="p2"/>      
+      <multiplicity id="72" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="73">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="74" name="elementGenerator"/>      
+      <multiplicity id="75" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="76">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <generalization id="77">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="44"/>  
+  </generalization>  
+  <association id="78">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="79" name="game"/>      
+      <multiplicity id="80" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="81">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="82" name="board"/>      
+      <multiplicity id="83" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="84">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="85" name="elementGenerator"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="87">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="88" name="players"/>      
+      <multiplicity id="89" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="90">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="91" name="gui"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="93">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="44"/>  
+  </generalization>  
+  <association id="94">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="95" name="graphics"/>      
+      <multiplicity id="96" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="97">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <association id="98">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="99" name="strGen"/>      
+      <multiplicity id="100" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="101">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="43"/>  
+  </generalization>  
+  <generalization id="102">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="44"/>  
+  </generalization>  
+  <generalization id="103">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="44"/>  
+  </generalization>  
+  <association id="104">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="105" name="gridGen"/>      
+      <multiplicity id="106" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="107">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <association id="108">    
+    <bendpoint x="4551" y="1131"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="109" name="board"/>      
+      <multiplicity id="110" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="111">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <realization id="112">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="22"/>  
+  </realization>  
+  <association id="113">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="114" name="game"/>      
+      <multiplicity id="115" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="116">    
+    <bendpoint x="2938" y="668"/>    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <association id="117">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="118" name="board"/>      
+      <multiplicity id="119" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="120">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="121" name="players"/>      
+      <multiplicity id="122" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="123">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
